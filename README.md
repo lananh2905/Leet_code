@@ -9,5 +9,6 @@ My challenge with Leet Code
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[C++](./algorithms/cpp/49_groupanagrams.cpp), [Python](/algorithms/python/49_groupanagrams.py)|Medium|Arrays & Hashing|6th Aug 2025|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[C++](./algorithms/cpp/217_containsduplicate.cpp), [Python](./algorithms/python/217_containsduplicate.py)|Easy|Arrays & Hashing|4th Aug 2025|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[C++](./algorithms/cpp/242_validanagram.cpp), [Python](./algorithms/python/242_validanagram.py)|Easy|Arrays & Hashing|5th Aug 2025|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|[C++](./algorithms/cpp/347_topkfrequentelements.cpp), [Python](./algorithms/python/347_topkfrequentelements.py)|Medium|Arrays & Hashing|7th Aug 2025|
 |1480| [Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array)|[C++](./algorithms/cpp/1480_sumof1darry.cpp), [Python](./algorithms/python/1480_sumof1darray.py)| Easy | Arrays & Hashing | 31st Jul 2025 |
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)|[C++](./algorithms/cpp/1672_richestCustomerWealth.cpp), [Python](./algorithms/python/1672_richestCustomerWealth.py)| Easy | Arrays & Hashing | 31st Jul 2025 |
