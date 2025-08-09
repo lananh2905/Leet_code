@@ -6,6 +6,7 @@ My challenge with Leet Code
 | # | Title | Solution | Difficulty | Algorithms | Date |
 |---| ----- | -------- | ---------- | ---------- | ---- |
 |1|[Two sump](https://leetcode.com/problems/two-sum)|[C++](./algorithms/cpp/1_twosum.cpp), [Python](/algorithms/python/1_twosump.py)|Easy|Arrays & Hashing|4th Aug 2025|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[C++](./algorithms/cpp/36_validsudoku.cpp), [Python](/algorithms/python/36_validsudoku.py)|Medium|Arrays & Hashing|9th Aug 2025|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[C++](./algorithms/cpp/49_groupanagrams.cpp), [Python](/algorithms/python/49_groupanagrams.py)|Medium|Arrays & Hashing|6th Aug 2025|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[C++](./algorithms/cpp/217_containsduplicate.cpp), [Python](./algorithms/python/217_containsduplicate.py)|Easy|Arrays & Hashing|4th Aug 2025|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[C++](./algorithms/cpp/238_productarrayexecptself.cpp), [Python](./algorithms/python/238_productarrayexecptself.py)|Medium|Arrays & Hashing|8th Aug 2025|
