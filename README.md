@@ -21,5 +21,6 @@ My challenge with Leet Code
 
 | # | Title | Solution | Difficulty | Algorithms | Date |
 |---| ----- | -------- | ---------- | ---------- | ---- |
+|15|[3 Sum](https://leetcode.com/problems/3sum)|[C++](./algorithms/TwoPointers/cpp/15_3sum.cpp), [Python](./algorithms/TwoPointers/python/15_3sum.py)|Medium|Two Pointers|14th Aug 2025|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[C++](./algorithms/TwoPointers/cpp/125_validpalidrome.cpp), [Python](./algorithms/TwoPointers/python/125_validpalidrome.py)|Easy|Two Pointers|11th Aug 2025|
-|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[C++](./algorithms/TwoPointers/cpp/167_twosum2.cpp), [Python](./algorithms/TwoPointers/python/167_twosum2.py)|Medium|Two Pointers|11th Aug 2025|
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[C++](./algorithms/TwoPointers/cpp/167_twosum2.cpp), [Python](./algorithms/TwoPointers/python/167_twosum2.py)|Medium|Two Pointers|13th Aug 2025|
