@@ -1,4 +1,3 @@
 .vscode
 algorithms/cpp/build
-./algorithms/cpp/Makefile
-./algorithms/*/test
+algorithms/TwoPointers/test
