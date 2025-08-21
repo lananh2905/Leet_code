@@ -26,3 +26,9 @@ My challenge with Leet Code
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[C++](./algorithms/TwoPointers/cpp/42_trapingrainwater.cpp), [Python](./algorithms/TwoPointers/python/42_trapingrainwater.py)|Hard|Two Pointers|20th Aug 2025|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[C++](./algorithms/TwoPointers/cpp/125_validpalidrome.cpp), [Python](./algorithms/TwoPointers/python/125_validpalidrome.py)|Easy|Two Pointers|11th Aug 2025|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[C++](./algorithms/TwoPointers/cpp/167_twosum2.cpp), [Python](./algorithms/TwoPointers/python/167_twosum2.py)|Medium|Two Pointers|13th Aug 2025|
+
+## Stack
+
+| # | Title | Solution | Difficulty | Algorithms | Date |
+|---| ----- | -------- | ---------- | ---------- | ---- |
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[C++](./algorithms/Stack/cpp/20_validparenthese.cpp), [Python](./algorithms/Stack/python/20_validparenthese.py)|Easy|Stack|21st Aug 2025|
