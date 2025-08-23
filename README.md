@@ -32,3 +32,4 @@ My challenge with Leet Code
 | # | Title | Solution | Difficulty | Algorithms | Date |
 |---| ----- | -------- | ---------- | ---------- | ---- |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[C++](./algorithms/Stack/cpp/20_validparenthese.cpp), [Python](./algorithms/Stack/python/20_validparenthese.py)|Easy|Stack|21st Aug 2025|
+|155|[Min Stack](https://leetcode.com/problems/min-stack)|[C++](./algorithms/Stack/cpp/155_minstack.cpp), [Python](./algorithms/Stack/python/155_minstack.py)|Medium|Stack|23rd Aug 2025|
