@@ -32,5 +32,6 @@ My challenge with Leet Code
 | # | Title | Solution | Difficulty | Algorithms | Date |
 |---| ----- | -------- | ---------- | ---------- | ---- |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[C++](./algorithms/Stack/cpp/20_validparenthese.cpp), [Python](./algorithms/Stack/python/20_validparenthese.py)|Easy|Stack|21st Aug 2025|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++](./algorithms/Stack/cpp/22_generateparenthese.cpp), [Python](./algorithms/Stack/python/22_generateparenthese.py)|Medium|Stack|27th Aug 2025|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[C++](./algorithms/Stack/cpp/150_polishnotation.cpp), [Python](./algorithms/Stack/python/150_polishnotation.py)|Medium|Stack|25th Aug 2025|
-|155|[Min Stack](https://leetcode.com/problems/min-stack)|[C++](./algorithms/Stack/cpp/155_minstack.cpp), [Python](./algorithms/Stack/python/155_minstack.py)|Medium|Stack|23rd Aug 2025|
+|155|[Min Stack](https://leetcode.com/problems/min-stack)|[C++](./algorithms/Stack/cpp/155_minstack.cpp), [Python](./algorithms/Stack/python/155_minstack.py)|Medium|Stack|23rd Aug 2025| 
